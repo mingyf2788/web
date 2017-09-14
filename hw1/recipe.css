@@ -1,0 +1,36 @@
+/*the heads attribute*/
+h1 {
+    color: rgb(164, 164, 0);
+    background-color:#F0F0F0;
+    font-family:sans-serif;
+    text-decoration: underline;
+    letter-spacing:0.2em;
+}
+
+/*the main page's attribute*/
+p {
+    color: #404040;
+    font-size:11pt;
+    font-family: sans-serif;
+}
+
+/*user's comments attribute*/
+.div1 {
+    font-style:italic;
+    background-color: #FFFFC8;
+    text-align:left;
+    margin-left: 2em;
+}
+
+body {
+    background-image:url(https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg);
+}
+
+ul{
+    list-style-image:url(https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif);
+}
+
+a {
+    color:white;
+}
+
