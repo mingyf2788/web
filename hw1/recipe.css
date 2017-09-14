@@ -5,8 +5,19 @@ h1 {
     font-family:sans-serif;
     text-decoration: underline;
     letter-spacing:0.2em;
+    text-align:center;
+    font-size:22pt;
 }
 
+h2 {
+     color: rgb(164, 164, 0);
+    background-color:#F0F0F0;
+    font-family:sans-serif;
+    text-decoration: underline;
+    letter-spacing:0.2em;
+    text-align:left;
+    font-size:18pt;
+}
 /*the main page's attribute*/
 p {
     color: #404040;
@@ -15,7 +26,7 @@ p {
 }
 
 /*user's comments attribute*/
-.div1 {
+.quote {
     font-style:italic;
     background-color: #FFFFC8;
     text-align:left;
@@ -24,6 +35,7 @@ p {
 
 body {
     background-image:url(https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg);
+    background-attachment:fixed;
 }
 
 ul{
