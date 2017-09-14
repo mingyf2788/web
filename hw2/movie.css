@@ -1,0 +1,158 @@
+body {
+    background-image:url(http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/background.png?version=1&modificationDate=1268896312000);
+    /* http://blog.csdn.net/mingyf */
+}
+
+.banner {
+    background-image:url(http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/bannerbackground.png?version=1&modificationDate=1268896312000);
+    height:50px;
+    width:100%;
+    position: absolute;
+    top:0px;
+}
+
+h1 {
+    text-align:center;
+    font-weight:bold;
+    position:relative;
+    top:50px;
+}
+
+.divbig {
+    width:800px;
+    height:1000px;
+    border:4px solid grey;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 70px;
+}
+
+.rotten {
+    background-image:url(http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/rottenbackground.png?version=1&modificationDate=1268896385000);
+    background-repeat:repeat-x;
+    height:83px;
+}
+
+.percent {
+    font-size:48pt;
+    color:red;
+    font-weight:bold;
+    position: relative;
+    bottom:10px;
+}
+
+.white_ {
+    font-size:8pt;
+    color:white;
+    position: relative;;
+    bottom:10px;
+}
+
+.div-comment {
+    width:256px;
+    float:left;
+}
+
+.single-comment {
+    margin-top:3em;
+    border:0;
+    padding:0;
+}
+
+.left-comment {
+    width:255px;
+    background-color:#E1D697;
+    border:2px solid grey;
+    float:left;
+    margin-left:8px;
+    margin-top:8px;
+}
+
+.right-comment {
+    width:255px;
+    background-color:#E1D697;
+    border:2px solid grey;
+    float:left;
+    margin-left:20px;
+}
+
+.quote-image {
+    margin-right:5px;
+    float:left;
+}
+
+.quote-content {
+    font-weight:bold;
+    font-size:8pt;
+}
+
+.head-portrait {
+    vertical-align:bottom;
+    float:left;
+}
+
+.floatr {
+    float:right;
+}
+
+.floatl {
+    float:left;
+}
+
+q {
+    margin:8px;
+    font-size:8pt;
+    font-family:Sans-serif;
+}
+
+.name {
+    font-family:Sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+}
+
+.place {
+    font-family:Sans-serif;
+    font-size:8pt;
+    font-style:italic;
+    vertical-align:bottom
+}
+
+.head-portraitr {
+    vertical-align:bottom;
+    float:left;
+    margin-left:20px;
+}
+
+.comment {
+    width:250px;
+    height:558px;
+    font-size:8pt;
+    float:right;
+    background-color: #A2B964;
+}
+
+dt {
+    font-weight:bolder;
+    margin-top:1em;
+}
+
+.botto {
+    width:800px;
+    height:30px;
+    display:inline-block;
+    vertical-align:bottom;
+    background-color: #A2B964;    
+}
+
+.page{
+    text-align:center;
+    position:relative;
+    bottom:10px;
+}
+
+.hyperlink {
+    position: relative;
+    right:806px;
+    bottom:62px;
+}
