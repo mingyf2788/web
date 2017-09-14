@@ -2,7 +2,8 @@
 h1 {
     color: rgb(164, 164, 0);
     background-color:#F0F0F0;
-    font-family:sans-serif;
+    font-weight:bold;
+    font-family:Century Gothic,sans-serif;
     text-decoration: underline;
     letter-spacing:0.2em;
     text-align:center;
@@ -10,9 +11,10 @@ h1 {
 }
 
 h2 {
-     color: rgb(164, 164, 0);
+    color: rgb(164, 164, 0);
     background-color:#F0F0F0;
-    font-family:sans-serif;
+    font-weight:normal;
+    font-family:Century Gothic,sans-serif;
     text-decoration: underline;
     letter-spacing:0.2em;
     text-align:left;
@@ -22,15 +24,14 @@ h2 {
 p {
     color: #404040;
     font-size:11pt;
-    font-family: sans-serif;
+    font-family:  Georgia, Garamond, sans-serif;
 }
 
 /*user's comments attribute*/
-.quote {
+blockquote {
     font-style:italic;
     background-color: #FFFFC8;
     text-align:left;
-    margin-left: 2em;
 }
 
 body {
@@ -44,5 +45,7 @@ ul{
 
 a {
     color:white;
+    color: rgb(164, 164, 0);
+    text-decoration: underline;
 }
 
